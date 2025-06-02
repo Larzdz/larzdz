@@ -5,15 +5,15 @@
 -->
 <h1 align="center">👋 Hola, Mi Nombre es Luis Rodriguez (Larz)</h1>
 
-<p align="center"><strong>Desarrollo web enfocado en Backend con Python y Django</strong></p>
-
 ---
 
 ### 🧑‍💻 Sobre mí
 
-Hola👋, mi nombre es Luis Rodriguez "Larz". Soy un Ingeniero de Sistemas apasionado por el desarrollo de software, enfocado principalmente en el desarrollo backend con Python y Django. Sin embargo, no soy ajeno a incursionar en otros lenguajes de programación, frameworks y/o temas del frontend. Me caracterizo por mi mentalidad orientada a resultados, rápida capacidad de aprendizaje y un fuerte compromiso con la excelencia técnica.
+<p align="center">
+Hola👋, mi nombre es Luis Rodriguez "Larz". Soy un Ingeniero de Sistemas apasionado por el desarrollo de software, enfocado principalmente en el desarrollo backend con Python y Django. Sin embargo, no soy     ajeno a incursionar en otros lenguajes de programación, frameworks y/o temas del frontend. Me caracterizo por mi mentalidad orientada a resultados, rápida capacidad de aprendizaje y un fuerte compromiso con la excelencia técnica.
+</p>
 
-💡 Listo para construir soluciones escalables y de alto impacto con Django! 🚀 
+<p align="center">💡 Listo para construir soluciones escalables y de alto impacto con Django! 🚀 </p>
 
 ---
 
@@ -53,17 +53,10 @@ Hola👋, mi nombre es Luis Rodriguez "Larz". Soy un Ingeniero de Sistemas apasi
   <img src="https://res.cloudinary.com/dry8bdxce/image/upload/v1748548927/xr020jaosolggpiwwpjb.jpg" width="30%" />
 </p>
 
-<p align="center">
-  <img src="URL_DE_TU_IMAGEN_4" width="30%" />
-  <img src="URL_DE_TU_IMAGEN_5" width="30%" />
-  <img src="URL_DE_TU_IMAGEN_6" width="30%" />
-</p>
-
 ---
 
 ### 📌 Stats (opcional)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=larzdz&show_icons=true&theme=github_dark" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larzdz&layout=compact&theme=github_dark" height="150"/>
 </p>
