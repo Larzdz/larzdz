@@ -22,6 +22,7 @@ Hola👋, mi nombre es Luis Rodriguez "Larz". Soy un Ingeniero de Sistemas apasi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=django&logoColor=white)
+![API REST](https://img.shields.io/badge/API%20REST-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,6 +32,7 @@ Hola👋, mi nombre es Luis Rodriguez "Larz". Soy un Ingeniero de Sistemas apasi
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![UiPath](https://img.shields.io/badge/UiPath-F6891F?style=for-the-badge&logo=uipath&logoColor=white)
 
 ---
@@ -48,13 +50,13 @@ Hola👋, mi nombre es Luis Rodriguez "Larz". Soy un Ingeniero de Sistemas apasi
 <!-- Aquí puedes reemplazar los src con tus propias imágenes subidas a un repositorio público o Imgur -->
 
 <p align="center">
-  <a target="_Blank" href="https://github.com/Larzdz/ConsolaAdministracionDjangoReact">
+  <a target="_blank" href="https://github.com/Larzdz/ConsolaAdministracionDjangoReact">
     <img src="https://res.cloudinary.com/dry8bdxce/image/upload/v1744395314/qvgf6m3xn0mieye41m23.jpg" width="30%" />
   </a>
-  <a target="_Blank" href="https://github.com/Larzdz/Calculadora">
+  <a target="_blank" href="https://github.com/Larzdz/Calculadora">
     <img src="https://res.cloudinary.com/dry8bdxce/image/upload/v1744646254/adyrdpbnmd3owmy79yod.jpg" width="30%" />
   </a>
-  <a target="_Blank" href="https://github.com/Larzdz/IPLookUp">
+  <a target="_blank" href="https://github.com/Larzdz/IPLookUp">
     <img src="https://res.cloudinary.com/dry8bdxce/image/upload/v1748548927/xr020jaosolggpiwwpjb.jpg" width="30%" />
   </a>
 </p>
