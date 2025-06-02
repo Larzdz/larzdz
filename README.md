@@ -48,15 +48,21 @@ Hola👋, mi nombre es Luis Rodriguez "Larz". Soy un Ingeniero de Sistemas apasi
 <!-- Aquí puedes reemplazar los src con tus propias imágenes subidas a un repositorio público o Imgur -->
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dry8bdxce/image/upload/v1744395314/qvgf6m3xn0mieye41m23.jpg" width="30%" />
-  <img src="https://res.cloudinary.com/dry8bdxce/image/upload/v1744646254/adyrdpbnmd3owmy79yod.jpg" width="30%" />
-  <img src="https://res.cloudinary.com/dry8bdxce/image/upload/v1748548927/xr020jaosolggpiwwpjb.jpg" width="30%" />
+  <a href="https://github.com/Larzdz/ConsolaAdministracionDjangoReact">
+    <img src="https://res.cloudinary.com/dry8bdxce/image/upload/v1744395314/qvgf6m3xn0mieye41m23.jpg" width="30%" />
+  </a>
+  <a href="https://github.com/Larzdz/Calculadora">
+    <img src="https://res.cloudinary.com/dry8bdxce/image/upload/v1744646254/adyrdpbnmd3owmy79yod.jpg" width="30%" />
+  </a>
+  <a href="https://github.com/Larzdz/IPLookUp">
+    <img src="https://res.cloudinary.com/dry8bdxce/image/upload/v1748548927/xr020jaosolggpiwwpjb.jpg" width="30%" />
+  </a>
 </p>
 
 ---
 
-### 📌 Stats (opcional)
+### 📌 Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larzdz&layout=compact&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larzdz&layout=compact&theme=github_dark"/>
 </p>
