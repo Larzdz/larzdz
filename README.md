@@ -3,14 +3,14 @@
   <img src="TU_IMAGEN_DE_BANNER_AQUI" alt="Banner de Larz" width="100%" />
 </p>
 -->
-<h1 align="center">👋 Hola, Mi Nombre es Luis Rodriguez (Larz)</h1>
+<h1 align="center">👋 Hola, Mi Nombre es Luis Rodriguez <em>"Larz"</em></h1>
 
 ---
 
 ### 🧑‍💻 Sobre mí
 
 <p align="center">
-Hola👋, mi nombre es Luis Rodriguez "Larz". Soy un Ingeniero de Sistemas apasionado por el desarrollo de software, enfocado principalmente en el desarrollo backend con Python y Django. Sin embargo, no soy     ajeno a incursionar en otros lenguajes de programación, frameworks y/o temas del frontend. Me caracterizo por mi mentalidad orientada a resultados, rápida capacidad de aprendizaje y un fuerte compromiso con la excelencia técnica.
+Soy un Ingeniero de Sistemas apasionado por el desarrollo de software, enfocado principalmente en el desarrollo backend con Python y Django. Sin embargo, no soy     ajeno a incursionar en otros lenguajes de programación, frameworks y/o temas del frontend. Me caracterizo por mi mentalidad orientada a resultados, rápida capacidad de aprendizaje y un fuerte compromiso con la excelencia técnica.
 </p>
 
 <p align="center">💡 Listo para construir soluciones escalables y de alto impacto con Django! 🚀 </p>
@@ -47,7 +47,7 @@ Hola👋, mi nombre es Luis Rodriguez "Larz". Soy un Ingeniero de Sistemas apasi
 
 ### 📸 Algunos Proyectos
 
-<!-- Aquí puedes reemplazar los src con tus propias imágenes subidas a un repositorio público o Imgur -->
+
 
 <p align="center">
   <a target="_blank" href="https://github.com/Larzdz/ConsolaAdministracionDjangoReact">
@@ -63,8 +63,10 @@ Hola👋, mi nombre es Luis Rodriguez "Larz". Soy un Ingeniero de Sistemas apasi
 
 ---
 
+<!--
 ### 📌 Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larzdz&layout=compact&theme=github_dark"/>
 </p>
+-->
