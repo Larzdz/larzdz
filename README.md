@@ -48,12 +48,11 @@ Soy un Ingeniero de Sistemas apasionado por el desarrollo de software, enfocado 
 ### 📸 Algunos Proyectos
 
 
-
 <p align="center">
-  <a target="_blank" href="https://github.com/Larzdz/ConsolaAdministracionDjangoReact">
+  <a target="_blank" href="https://github.com/Larzdz/Calculadora">
     <img src="https://res.cloudinary.com/dry8bdxce/image/upload/v1744395314/qvgf6m3xn0mieye41m23.jpg" width="30%" />
   </a>
-  <a target="_blank" href="https://github.com/Larzdz/Calculadora">
+  <a target="_blank" href="https://github.com/Larzdz/ConsolaAdministracionDjangoReact">
     <img src="https://res.cloudinary.com/dry8bdxce/image/upload/v1744646254/adyrdpbnmd3owmy79yod.jpg" width="30%" />
   </a>
   <a target="_blank" href="https://github.com/Larzdz/IPLookUp">
